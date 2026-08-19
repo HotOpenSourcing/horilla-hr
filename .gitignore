@@ -103,7 +103,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -149,7 +148,6 @@ node_modules/
 whoosh_index/
 
 #VSCode
-.vscode/
 
 #PyCharm
 .idea/
@@ -163,3 +161,4 @@ CLAUDE.md
 .mcp.json
 .mcp.safe.json
 .claudeignore
+config.bat
